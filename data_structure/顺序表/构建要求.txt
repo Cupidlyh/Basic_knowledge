@@ -1,0 +1,5 @@
+顺序表的初始化    int initlist
+顺序表取第i个元素的值   int getelem
+查找顺序表的某个值，返回他的序号  int locateelem
+在顺序表中第i的位置插入元素   int listinsert
+删除顺序表第i位置的元素  int listdelete 

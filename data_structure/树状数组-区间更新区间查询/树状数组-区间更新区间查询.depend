@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584797901 source:e:\code\data structure\树状数组-区间更新区间查询\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+

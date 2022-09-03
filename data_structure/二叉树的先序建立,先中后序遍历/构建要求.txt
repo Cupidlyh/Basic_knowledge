@@ -1,0 +1,4 @@
+先序建立二叉树  void createbitree
+先序遍历二叉树  void preorder
+中序遍历二叉树  void inorder
+后序遍历二叉树  void postorder

@@ -1,0 +1,4 @@
+顺序栈的初始化  int initstack
+顺序栈的入栈  int push
+顺序栈的出栈  int pop
+顺序栈的取栈顶元素 int gettop

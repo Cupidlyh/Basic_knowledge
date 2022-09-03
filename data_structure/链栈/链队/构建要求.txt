@@ -1,0 +1,4 @@
+链队的初始化  int initqueue
+链队的入队  int enqueue
+链队的出队  int dequeue
+链队的取队头元素 int gethead

@@ -1,0 +1,19 @@
+6 11
+a
+b
+c
+d
+e
+f
+b d
+b a
+c f
+c b
+d f
+d e
+d c
+e a
+f e
+f b
+f a
+b

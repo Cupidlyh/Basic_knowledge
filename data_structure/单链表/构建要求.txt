@@ -1,0 +1,7 @@
+单链表的初始化  int initlist
+取出单链表第i位的值  int getelem
+单链表的按值查找   lnode *locateelem
+将数据插入到单链表第i个位置上   int listinsert
+将单链表中第i个位置的数据删除   int listdelete
+前插法创建单链表  void creatlist_h
+后插法创建单链表  void creatlist_r

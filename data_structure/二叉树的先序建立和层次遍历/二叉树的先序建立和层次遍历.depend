@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567686907 source:e:\code\data structure\二叉树的先序建立和层次遍历\main.c
+	<stdio.h>
+	<stdlib.h>
+

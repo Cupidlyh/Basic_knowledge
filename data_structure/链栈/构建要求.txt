@@ -1,0 +1,4 @@
+链栈的初始化  int initstack
+链栈的入栈  int push
+链栈的出栈  int pop
+链栈的取栈顶元素 int gettop

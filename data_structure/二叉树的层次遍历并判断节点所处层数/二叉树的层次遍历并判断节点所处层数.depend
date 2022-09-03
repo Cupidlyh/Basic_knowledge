@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569329949 source:e:\code\data structure\二叉树的层次遍历并判断节点所处层数\main.c
+	<stdio.h>
+	<stdlib.h>
+
